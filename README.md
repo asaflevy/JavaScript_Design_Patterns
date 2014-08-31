@@ -1,4 +1,5 @@
 JavaScript_Design_Patterns
 ==========================
 
-some Example of JavaScript Design Patterns
+
+My work through the javascript design patterns
